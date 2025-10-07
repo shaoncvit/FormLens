@@ -165,12 +165,7 @@ We welcome contributions! Please see our contributing guidelines:
 If you use FormLens in your research, please cite our paper:
 
 ```bibtex
-<!-- @article{bhattacharya2024formlens,
-  title={FormLens: From Ink to Insight with Adapting Vision-Language Models for Handwritten Form Digitization},
-  author={Bhattacharya, Shaon and Mondal, Ajoy and Jawahar, C V},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2024}
-} -->
+
 ```
 
 ---
